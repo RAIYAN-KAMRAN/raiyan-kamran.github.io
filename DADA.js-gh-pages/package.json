@@ -4,7 +4,7 @@
   "author": "Matthias Vogt",
   "bugs": "https://github.com/matthias-vogt/DADA.js/issues",
   "dependencies": {
-    "jquery": "^2.2.3"
+    "jquery": "^3.5.1"
   },
   "devDependencies": {
     "browser-sync": "^2.12.3",
